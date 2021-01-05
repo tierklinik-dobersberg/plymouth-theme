@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Tierklinik Dobersberg
+Description=A theme branded for the Tierklinik Dobersberg.
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/tkd
+ScriptFile=/usr/share/plymouth/themes/tkd/tkd.script
