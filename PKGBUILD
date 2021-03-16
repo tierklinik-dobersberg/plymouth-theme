@@ -16,7 +16,7 @@ md5sums=('SKIP'
 
 package() {
     cd $srcdir/${pkgname}
-    mkdir -p $pkgdir/usr/share/plymouth/themes/arch-logo-gnomish
-    install -Dm644 * "${pkgdir}"/usr/share/plymouth/themes/arch-logo-gnomish
+    mkdir -p $pkgdir/usr/share/plymouth/themes/tkd
+    install -Dm644 * "${pkgdir}"/usr/share/plymouth/themes/tkd
 }
 

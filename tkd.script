@@ -158,8 +158,8 @@ fun draw_bg () {
 #Window.SetBackgroundTopColor (0.18, 0.20, 0.21);     # Nice colour on top of the screen fading to
 #Window.SetBackgroundBottomColor (0.18, 0.20, 0.21);  # an equally nice colour on the bottom
 
-Window.SetBackgroundTopColor (0.98, 0.90, 1);     # Nice colour on top of the screen fading to
-Window.SetBackgroundBottomColor (0.98, 0.90, 1);  # an equally nice colour on the bottom
+Window.SetBackgroundTopColor (0.98, 0.95, 1);     # Nice colour on top of the screen fading to
+Window.SetBackgroundBottomColor (0.98, 0.95, 1);  # an equally nice colour on the bottom
 
 #-----------------------------------------------------------------------------
 
